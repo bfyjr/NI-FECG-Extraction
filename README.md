@@ -19,4 +19,4 @@ Non-invasive Fetal electrocardiogram (NI-FECG) Extraction
 
 4.得到胎儿心电图
 ---
-><img src="https://github.com/bfyjr/NI-FECG-Extraction/blob/master/img/a14_FECG.png" width="600" height="400"/><br/>
+><img src="https://github.com/bfyjr/NI-FECG-Extraction/blob/master/img/a14_FECG.png" width="600" height="200"/><br/>
